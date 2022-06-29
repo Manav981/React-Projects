@@ -1,0 +1,32 @@
+.red{
+    color: #f00606;
+}
+.green{
+    color: #11d811;
+}
+.high{
+    width: 100px;
+}
+.low{
+width:100px;
+}
+.percent-market-cap{
+width:100px;
+}
+
+table{
+    border-collapse: collapse;
+    max-width: fit-content;
+    width: auto;
+    margin: 2rem auto;
+}
+
+table th, table td{
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+.icon{
+    height:30px;
+    width: 30px;
+}
